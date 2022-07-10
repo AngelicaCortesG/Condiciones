@@ -4,6 +4,7 @@ body{
 }
 .title {
     text-align: center;
+    padding-top: 30px
 }
 
 .padre {
@@ -55,6 +56,7 @@ h1 {
     font-size: xx-large;
     font-weight: 900px;
     color: white;
+    margin: 10px;
 }
 span {
     font-size: xx-large;
