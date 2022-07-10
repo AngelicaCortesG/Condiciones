@@ -34,10 +34,16 @@ button{
     background-color: #ab3ed8;
     color: #fff;
     padding: 10px 25px 10px 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-p {
+h1 {
     font-size: xx-large;
     font-weight: 900px;
     color: white;
 }
+a{
+    padding: 10px;
+    color: #97e9ff
+}
+
