@@ -6,14 +6,14 @@ function calcular() {
     if (select1.value == 9 && select2.value == 1 && select3.value == 1) {
         span = document.querySelector('span')
         span.innerHTML = 'Password 1 correcto'
-        span.style.color= "green"
+        span.style.color= "#39ff14"
     } else if (select1.value == 7 && select2.value == 1 && select3.value == 4) {
         span = document.querySelector('span')
         span.innerHTML = 'Password 2 correcto'
-        span.style.color= "green"
+        span.style.color= "#39ff14"
     } else {
         span = document.querySelector('span')
-        span.innerHTML = 'Password 1 correcto'
+        span.innerHTML = 'Password Incorrecto'
         span.style.color= "red"
     }
 }
