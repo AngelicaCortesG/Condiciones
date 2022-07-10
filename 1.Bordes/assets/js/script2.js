@@ -12,6 +12,6 @@ suma= Number(olivia) + Number(walter) + Number(peter)
     else {
         cuanto=document.querySelector('span')
         cuanto.innerHTML= 'Llevas ' + suma + ' stickers'
-        cuanto.style.color= "#97e9ff"
+        cuanto.style.color= "#39ff14"
     }
 }

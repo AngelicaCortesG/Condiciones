@@ -3,6 +3,12 @@ body{
     background-color: #0069c0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.titulo{
+    text-align: center;
+    text-decoration:underline #fff;
+    padding-top: 20px;
+
+}
 
 .padre{
     display: flex;
@@ -27,7 +33,7 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin: 30px;
+    margin: 10px 30px 30px 30px;
 }
 button{
     margin: 15px;
